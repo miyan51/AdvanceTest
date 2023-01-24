@@ -1,6 +1,6 @@
 # アプリケーション名
 お問い合わせフォーム/管理システム
-![table](https://user-images.githubusercontent.com/116257054/214287631-2b842465-d0d3-4280-92ee-afa44bb72cd4.jpg)
+![top](https://user-images.githubusercontent.com/116257054/214287816-2dc7268c-e83d-44e0-84b5-92e6d67f1479.jpg)
 ![manager](https://user-images.githubusercontent.com/116257054/214287642-e4e67979-eef2-4e50-a58c-057a39e2ca12.jpg)
  
 ## 作成した目的
